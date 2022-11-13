@@ -1,0 +1,15 @@
+C:\Desktop\FinalWork\exercize\bin\Debug\net6.0\exercize.exe
+C:\Desktop\FinalWork\exercize\bin\Debug\net6.0\exercize.deps.json
+C:\Desktop\FinalWork\exercize\bin\Debug\net6.0\exercize.runtimeconfig.json
+C:\Desktop\FinalWork\exercize\bin\Debug\net6.0\exercize.dll
+C:\Desktop\FinalWork\exercize\bin\Debug\net6.0\exercize.pdb
+C:\Desktop\FinalWork\exercize\obj\Debug\net6.0\exercize.csproj.AssemblyReference.cache
+C:\Desktop\FinalWork\exercize\obj\Debug\net6.0\exercize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\FinalWork\exercize\obj\Debug\net6.0\exercize.AssemblyInfoInputs.cache
+C:\Desktop\FinalWork\exercize\obj\Debug\net6.0\exercize.AssemblyInfo.cs
+C:\Desktop\FinalWork\exercize\obj\Debug\net6.0\exercize.csproj.CoreCompileInputs.cache
+C:\Desktop\FinalWork\exercize\obj\Debug\net6.0\exercize.dll
+C:\Desktop\FinalWork\exercize\obj\Debug\net6.0\refint\exercize.dll
+C:\Desktop\FinalWork\exercize\obj\Debug\net6.0\exercize.pdb
+C:\Desktop\FinalWork\exercize\obj\Debug\net6.0\exercize.genruntimeconfig.cache
+C:\Desktop\FinalWork\exercize\obj\Debug\net6.0\ref\exercize.dll
